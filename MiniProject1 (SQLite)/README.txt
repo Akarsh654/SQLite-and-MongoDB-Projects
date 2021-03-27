@@ -1,6 +1,6 @@
-Akrash Sharma, ccid: akrash
-Robert Joseph, ccid: rjoseph1
-Tanyaradzwa Gozhora, ccid: gozhora
+Akrash Sharma
+Robert Joseph
+Tanyaradzwa Gozhora
 We did not collaborate with anyone else.
 
 
